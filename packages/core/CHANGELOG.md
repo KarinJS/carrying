@@ -1,5 +1,18 @@
 # 更新日志
 
+## [1.2.2](https://github.com/KarinJS/Karin/compare/core-v1.2.1...core-v1.2.2) (2025-01-20)
+
+
+### 🐛 Bug Fixes
+
+* @heroui/popover ([0a9039a](https://github.com/KarinJS/Karin/commit/0a9039acd447d743532f9270ff3d5715314c7e82))
+* Components types ([447bd62](https://github.com/KarinJS/Karin/commit/447bd62fba77be04351e4b708926913174f07997))
+* file api ([1df3ee2](https://github.com/KarinJS/Karin/commit/1df3ee22128bb77ae4ca340cd8316ca0c71601c9))
+* set env ([c3b311e](https://github.com/KarinJS/Karin/commit/c3b311e3830f36697f369eb62d6cbaccea0df56b))
+* 修正保存的类型错误 ([bd042fe](https://github.com/KarinJS/Karin/commit/bd042feac367b4fd768e585dd41e87564029aa00))
+* 配置 ([aa6d02d](https://github.com/KarinJS/Karin/commit/aa6d02dfb78baa385acc0405b77da7176fbe662d))
+* 重构配置文件格式 ([1abd5be](https://github.com/KarinJS/Karin/commit/1abd5be785074d02453cc0ddfa46022d871c62bd))
+
 ## [1.2.1](https://github.com/KarinJS/Karin/compare/core-v1.2.0...core-v1.2.1) (2025-01-18)
 
 

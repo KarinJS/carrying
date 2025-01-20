@@ -1,6 +1,6 @@
 {
-  "packages/core": "1.2.1",
+  "packages/core": "1.2.2",
   "packages/cli": "1.0.1",
   "packages/create-karin": "1.0.2",
-  "packages/web": "1.1.0"
+  "packages/web": "1.2.0"
 }
